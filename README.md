@@ -3,6 +3,7 @@
 - 🙋‍♀️ I'm Joy, a frontend developer from Taiwan.
 - 🖧 Currently working in the IoT industry.
 - 🥰 Love anime and movies, especially comedy.
+- ![](https://komarev.com/ghpvc/?username=Joy-Honchan)
 
 💪 Skills
 ---
